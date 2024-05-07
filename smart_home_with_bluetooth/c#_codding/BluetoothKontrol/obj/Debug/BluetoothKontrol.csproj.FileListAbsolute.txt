@@ -1,0 +1,46 @@
+D:\erdal\arduino kitap\bölümler\bolum12\kod\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.Form1.resources
+D:\erdal\arduino kitap\bölümler\bolum12\kod\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.Properties.Resources.resources
+D:\erdal\arduino kitap\bölümler\bolum12\kod\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.csproj.GenerateResource.Cache
+D:\erdal\arduino kitap\bölümler\bolum12\kod\BluetoothKontrol\BluetoothKontrol\bin\Debug\BluetoothKontrol.exe
+D:\erdal\arduino kitap\bölümler\bolum12\kod\BluetoothKontrol\BluetoothKontrol\bin\Debug\BluetoothKontrol.pdb
+D:\erdal\arduino kitap\bölümler\bolum12\kod\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.exe
+D:\erdal\arduino kitap\bölümler\bolum12\kod\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.pdb
+C:\Users\canan\Downloads\documents-export-2014-07-10\bolum12\kod\windows\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.exe
+C:\Users\canan\Downloads\documents-export-2014-07-10\bolum12\kod\windows\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.pdb
+C:\Users\canan\Downloads\documents-export-2014-07-10\bolum12\kod\windows\BluetoothKontrol\BluetoothKontrol\bin\Debug\BluetoothKontrol.exe
+C:\Users\canan\Downloads\documents-export-2014-07-10\bolum12\kod\windows\BluetoothKontrol\BluetoothKontrol\bin\Debug\BluetoothKontrol.pdb
+C:\Users\canan\Downloads\documents-export-2014-07-10\bolum12\kod\windows\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.csprojResolveAssemblyReference.cache
+C:\Users\canan\Downloads\documents-export-2014-07-10\bolum12\kod\windows\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.Form1.resources
+C:\Users\canan\Downloads\documents-export-2014-07-10\bolum12\kod\windows\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.Properties.Resources.resources
+C:\Users\canan\Downloads\documents-export-2014-07-10\bolum12\kod\windows\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.csproj.GenerateResource.Cache
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Arduino Kitap CD'si\ProjeKodları\bolum12\windows\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.exe
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Arduino Kitap CD'si\ProjeKodları\bolum12\windows\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.pdb
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Arduino Kitap CD'si\ProjeKodları\bolum12\windows\BluetoothKontrol\BluetoothKontrol\bin\Debug\BluetoothKontrol.exe
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Arduino Kitap CD'si\ProjeKodları\bolum12\windows\BluetoothKontrol\BluetoothKontrol\bin\Debug\BluetoothKontrol.pdb
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Arduino Kitap CD'si\ProjeKodları\bolum12\windows\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.csprojResolveAssemblyReference.cache
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Arduino Kitap CD'si\ProjeKodları\bolum12\windows\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.Form1.resources
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Arduino Kitap CD'si\ProjeKodları\bolum12\windows\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.Properties.Resources.resources
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Arduino Kitap CD'si\ProjeKodları\bolum12\windows\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.csproj.GenerateResource.Cache
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.exe
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.pdb
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.csprojResolveAssemblyReference.cache
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.Form1.resources
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.Properties.Resources.resources
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.csproj.GenerateResource.Cache
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\bin\Debug\BluetoothKontrol.exe
+C:\Users\myagizorhan\Desktop\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\bin\Debug\BluetoothKontrol.pdb
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.exe
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.pdb
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\bin\Debug\BluetoothKontrol.exe
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\bin\Debug\BluetoothKontrol.pdb
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.csprojResolveAssemblyReference.cache
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.Form1.resources
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.Properties.Resources.resources
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\Visual\Yeni\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.csproj.GenerateResource.Cache
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\YeniENSON\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.exe
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\YeniENSON\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.pdb
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\YeniENSON\BluetoothKontrol\BluetoothKontrol\bin\Debug\BluetoothKontrol.exe
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\YeniENSON\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.csprojResolveAssemblyReference.cache
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\YeniENSON\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.Form1.resources
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\YeniENSON\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.Properties.Resources.resources
+G:\Yedeklemeler\Arduino\~myo Denemeler\Projeler\Büyük\Akıllı Ev\3. Bluetooth Seri Yollayıp Alma (Akıllı Ev için)\YeniENSON\BluetoothKontrol\BluetoothKontrol\obj\Debug\BluetoothKontrol.csproj.GenerateResource.Cache
